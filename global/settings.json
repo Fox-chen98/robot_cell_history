@@ -1,0 +1,23 @@
+{
+  "cleanupPeriodDays": 36500,
+  "model": "opus",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"C:/Program Files/Git/bin/bash.exe\" C:/Users/26293/.claude/scripts/auto-commit-check.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  },
+  "effortLevel": "high",
+  "autoUpdatesChannel": "latest",
+  "tui": "fullscreen",
+  "skipWorkflowUsageWarning": true,
+  "theme": "light"
+}

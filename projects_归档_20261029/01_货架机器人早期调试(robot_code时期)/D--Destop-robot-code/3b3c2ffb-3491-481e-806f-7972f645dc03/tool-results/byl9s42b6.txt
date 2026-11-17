@@ -1,0 +1,460 @@
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.3894385197943393e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.4940766845938924e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.5104855083668554e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.383150896738243e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.860162298811701e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.458913131586087e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.7742482795219985e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.8816607766657398e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.59359803528514e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.1784313020134505e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.385197082181548e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.634120180455284e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.2798445353799934e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.3781170871141057e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.415196456861395e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.3073459648182961e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.8618499448593866e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.882578252818348e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.818498204414936e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.62974181611753e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.413312039095672e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.713575994079292e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0165482899893163e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.62034100476194e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.584159789075784e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.908284185172306e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.961943141282063e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.065637781991427e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -6.579369227210918e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.151604215962834e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.7300905353940834e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.6698336935405678e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.6187849161706254e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.1735624673199254e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 9.047939641959601e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.8216365305079307e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.507431121211994e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.319375328052047e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.4158406003161872e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.629536753952834e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.9690691299700802e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.849933400383975e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.336176999217514e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.619208458071626e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.5279104370602425e-11 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.833795916984855e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.085376647035901e-10 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.3337069226793119e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.037513765657422e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.4162600259215452e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.024352102087846e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.310050011862131e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.90684937126673e-10 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.048337095581168e-11 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.158030808554258e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.667549292567628e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.261171389543847e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.4971634477187763e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.9264741619481356e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.111309230367624e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.2019119033368497e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.3751921823512703e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.7357893728208182e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.711637302534655e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.0230584157611133e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -6.369234029079962e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.612911818137945e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.5169004658209815e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.641263208147393e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.083248335476128e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.4071054866302575e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.1064174465502674e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.6215709663924827e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.180138901688224e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.5867857189609822e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.5300009843838325e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.2384231418138825e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.1123560374530825e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.200975815635502e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.314211293239168e-10 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.5759123783709583e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.510919193734253e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.494030499316068e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.3248666042595687e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.1192946125504477e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.4649826058673625e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.6556554177936675e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.0813458573011303e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.4589157659727903e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.725911668084336e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.578816158508971e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.888036615937949e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.320286768802248e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -9.978663229048834e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.768227396783175e-10 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.22577286893511e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.0181997467384463e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.94145782678379e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.8303989131379694e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.112860274574359e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.0065498656786076e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.034913154120744e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.2431571851439e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -9.402312706185967e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.0173651920908355e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.664622821337616e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.674840318827592e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.647627787652709e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.4284148974752497e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.291269089546802e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.4645133106228059e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.901970633383826e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.441795654561929e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.101744804392183e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.7818598152530285e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.1985149256664727e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0186820831314947e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.8875148938567463e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.616736853397697e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.4387022885293845e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0382008586162783e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.440528276310033e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.649635983369535e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.2079995670433163e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.1993926376023865e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.879910336403782e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.131973270673825e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.2077058403624505e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.8596312045815466e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.523172141863597e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -6.2917306919985094e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 6.992169510056101e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.393779005189117e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.4942520937543122e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.43730951771704e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.7535054297468378e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -9.600002925935769e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 9.522920230153886e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -6.707800981331502e-11 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.4843035245348801e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.666169755613737e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.895294030722198e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -9.006082990481445e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.367671711084768e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.603097097406362e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 5.200021302442792e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.112450267105942e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.477977544325995e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.4322661096884985e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.9816972951502976e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.7096361538146994e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.626151657774244e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.1665577837050023e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.3027713069723177e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.729117542012773e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.1447195958378416e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.2876959498697715e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.474535770209286e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.411537357640327e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.5792674662739046e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.418480088943852e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.351000505385059e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.621620750659531e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.485223634835393e-10 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.0487417862777875e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 9.276311274675209e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.689783755258304e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 9.29742654393051e-12 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.546025529819417e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.3753509442437917e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.600220897074905e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.3276935106887322e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.986682095558081e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.4920092656088855e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -9.696378810986062e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.5802429365052717e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.221156402195447e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.2931687659877298e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.3054783354913297e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.7379012673401917e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.676350418009179e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.861566900629441e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.574723012571667e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 9.433404812853041e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.5927951341486732e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.618108174701206e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.717174289543436e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.844025067844541e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.636441382402154e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.5734975039881647e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.222869692289578e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.0951358042632364e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0301343777996408e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.107499730286122e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.414835608201884e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.028095521694922e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.0127700395278225e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 4.503767137009618e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.6168798239467606e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 8.366492210143406e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.622647402172333e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.577397235053013e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -5.800452562709779e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.1756133844187389e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.540434250799308e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 7.670429291728453e-10 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -2.0242122644731353e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.4219585387518237e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -9.819291335588787e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.7584202416951484e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -4.706203204918324e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.1504988900744593e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -8.575560817014605e-10 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.533559140260877e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.2086304724288084e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.499157858437684e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -7.929634726622226e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.065539517204229e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -3.092092581979955e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 9.206861051325177e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0868188127233225e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 1.5053486235316882e-09 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0858236532129695e-09 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.4645726287863e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.0091009805535123e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 2.5753761789815144e-08 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.1046383363577661e-08 will be truncated to -1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:52: UserWarning: the float32 number 3.04212002810722e-11 will be truncated to 1e-07
+  warnings.warn(
+D:\miniconda\envs\lingbot-gpu\lib\site-packages\onnxconverter_common\float16.py:70: UserWarning: the float32 number -1.2721322661946033e-08 will be truncated to -1e-07
+  warnings.warn(
+从原始 fp32 直接转 fp16(纯标准算子)...
+完成: 包裹 9 个 Resize, model_fp16_trt.onnx (643 MB)

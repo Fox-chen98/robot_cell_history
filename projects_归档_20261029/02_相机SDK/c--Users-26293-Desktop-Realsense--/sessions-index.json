@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sessionId": "c0f58da9-5c16-454d-b24e-a5077a19d6d3",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\c--Users-26293-Desktop-Realsense--\\c0f58da9-5c16-454d-b24e-a5077a19d6d3.jsonl",
+      "fileMtime": 1769066179788,
+      "firstPrompt": "<ide_selection>The user selected the lines 2 to 8 from c:\\Users\\26293\\Desktop\\Realsense仿真\\01.Realsense3D相机仿真(PyBullet+Open3D).ipynb: bullet_simulator\", \"model\", \"meshes\", \"parts\", \"part01.stl\") # Mesh…",
+      "messageCount": 14,
+      "created": "2026-01-22T06:59:56.816Z",
+      "modified": "2026-01-22T07:16:19.742Z",
+      "gitBranch": "",
+      "projectPath": "c:\\Users\\26293\\Desktop\\Realsense仿真",
+      "isSidechain": false
+    }
+  ],
+  "originalPath": "c:\\Users\\26293\\Desktop\\Realsense仿真"
+}

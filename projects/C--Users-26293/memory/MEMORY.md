@@ -1,0 +1,2 @@
+- [User role and tooling](user_role.md) — 机器人/视觉方向，SOLIDWORKS + Python/conda + Claude Code 重度用户
+- [conda 安装与 PS7 兼容坑](project_conda_setup.md) — conda 装在 D:\miniconda，环境在 .conda\envs；PS7 需要 PSNativeCommandArgumentPassing=Legacy

@@ -1,0 +1,1 @@
+- [手眼标定项目背景](project_handeye_calibration.md) — 阿凯爱玩 xCoreSDK 手眼代码移植到 DucoCobot；姿态约定已验证为 RPY（标定姿态误差仅 0.2°），隐患排除

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sessionId": "63ebbce6-bae2-4c43-bb88-3c1cbe35095d",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\c--Users-26293-Desktop-RPC-Python-V3-7-3\\63ebbce6-bae2-4c43-bb88-3c1cbe35095d.jsonl",
+      "fileMtime": 1768898714820,
+      "firstPrompt": "当前所在路径",
+      "messageCount": 4,
+      "created": "2026-01-20T08:45:02.529Z",
+      "modified": "2026-01-20T08:45:14.739Z",
+      "gitBranch": "",
+      "projectPath": "C:\\Users\\26293\\Desktop\\RPC_Python_V3.7.3",
+      "isSidechain": false
+    },
+    {
+      "sessionId": "c20c0267-e95e-4043-92e8-e7340abfe67f",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\c--Users-26293-Desktop-RPC-Python-V3-7-3\\c20c0267-e95e-4043-92e8-e7340abfe67f.jsonl",
+      "fileMtime": 1768898698767,
+      "firstPrompt": "ls",
+      "messageCount": 4,
+      "created": "2026-01-20T08:44:39.203Z",
+      "modified": "2026-01-20T08:44:58.706Z",
+      "gitBranch": "",
+      "projectPath": "C:\\Users\\26293\\Desktop\\RPC_Python_V3.7.3",
+      "isSidechain": false
+    },
+    {
+      "sessionId": "4740ff06-f17a-42a6-927c-8c6924433724",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\C--Users-26293-Desktop-RPC-Python-V3-7-3\\4740ff06-f17a-42a6-927c-8c6924433724.jsonl",
+      "fileMtime": 1768900525429,
+      "firstPrompt": "我想查看我的历史对话记录，我应该使用什么命令？",
+      "messageCount": 2,
+      "created": "2026-01-20T09:13:37.510Z",
+      "modified": "2026-01-20T09:14:24.747Z",
+      "gitBranch": "",
+      "projectPath": "C:\\Users\\26293\\Desktop\\RPC_Python_V3.7.3",
+      "isSidechain": false
+    },
+    {
+      "sessionId": "49401a72-2691-4af7-a1cc-51cd01534273",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\C--Users-26293-Desktop-RPC-Python-V3-7-3\\49401a72-2691-4af7-a1cc-51cd01534273.jsonl",
+      "fileMtime": 1768900537896,
+      "firstPrompt": "No prompt",
+      "messageCount": 2,
+      "created": "2026-01-20T09:15:37.809Z",
+      "modified": "2026-01-20T09:15:37.808Z",
+      "gitBranch": "",
+      "projectPath": "C:\\Users\\26293\\Desktop\\RPC_Python_V3.7.3",
+      "isSidechain": false
+    }
+  ]
+}

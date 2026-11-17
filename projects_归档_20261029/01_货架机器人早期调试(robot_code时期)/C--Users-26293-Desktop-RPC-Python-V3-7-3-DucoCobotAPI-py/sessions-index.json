@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sessionId": "f018c7fc-7bd3-4253-8890-3602558880b9",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\C--Users-26293-Desktop-RPC-Python-V3-7-3-DucoCobotAPI-py\\f018c7fc-7bd3-4253-8890-3602558880b9.jsonl",
+      "fileMtime": 1768975994634,
+      "firstPrompt": "帮助我理解这份代码",
+      "summary": "Duco Cobot J1 axis control testing",
+      "messageCount": 58,
+      "created": "2026-01-20T08:46:20.944Z",
+      "modified": "2026-01-21T00:45:41.620Z",
+      "gitBranch": "",
+      "projectPath": "C:\\Users\\26293\\Desktop\\RPC_Python_V3.7.3\\DucoCobotAPI_py",
+      "isSidechain": false
+    }
+  ]
+}

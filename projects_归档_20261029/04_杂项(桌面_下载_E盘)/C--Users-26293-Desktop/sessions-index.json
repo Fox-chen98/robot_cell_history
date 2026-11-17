@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sessionId": "0994cac1-5074-4362-a7e2-85fcb52d303d",
+      "fullPath": "C:\\Users\\26293\\.claude\\projects\\C--Users-26293-Desktop\\0994cac1-5074-4362-a7e2-85fcb52d303d.jsonl",
+      "fileMtime": 1770269465404,
+      "firstPrompt": "@test.stp 你能写一份python脚本，读取这个文件分析一下，我为什么无法使用solidworks正常打开这个文件？你可以使用记事本或者别的方式分析",
+      "summary": "SolidWorks STEP File Encryption Issue Analysis",
+      "messageCount": 6,
+      "created": "2026-02-05T05:08:19.850Z",
+      "modified": "2026-02-05T05:09:50.549Z",
+      "gitBranch": "",
+      "projectPath": "C:\\Users\\26293\\Desktop",
+      "isSidechain": false
+    }
+  ],
+  "originalPath": "C:\\Users\\26293\\Desktop"
+}

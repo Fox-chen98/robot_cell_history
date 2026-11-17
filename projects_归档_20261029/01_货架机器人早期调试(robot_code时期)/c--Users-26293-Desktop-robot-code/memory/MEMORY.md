@@ -1,0 +1,6 @@
+- [示教录制回放管线](teach-replay-pipeline.md) — conda robot 环境、三段工作流、scan_position/初始位姿角色映射
+- [J1安全转向约束](j1-safe-direction.md) — J1变小=货架侧(安全)/变大=上料台(危险)，5点离散示教避障
+- [阶段性最终轨迹](stage-final-trajectory.md) — mid↔L6_left 成品文件 stage_final_*.yaml、生成链路、回放命令、待优化点
+- [上苗机集成](feeder-integration.md) — FeederService 握手设计、resume仅在视觉空时、联调范围与桩
+- [上架拓展任务](storage-rollout-next-tasks.md) — 路径优化(产出标准化调试法)/拓展药盒/拓展仓位 三个后续任务
+- [L6路径优化方法](l6-path-optimization-method.md) — v2避障json/1.2_1.0稳定速度/lead_in-tail连续化/SHELF_SPEED阶梯测速法

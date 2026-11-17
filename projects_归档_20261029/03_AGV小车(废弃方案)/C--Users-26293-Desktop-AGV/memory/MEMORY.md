@@ -1,0 +1,1 @@
+- [AGV硬件选型进展](agv-hardware-selection.md) — Mini AGV定制项目已确认的电机/驱动器/主控/电池选型与整车布局

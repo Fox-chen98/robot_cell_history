@@ -1,0 +1,53 @@
+# Memory Index
+
+- [已迁到 blue-space](migrated-to-blue-space.md) — 2026-10-29 起在 blue-space 本机 D:\robot_cell 运行; 旧记忆多为 Mac 经 ssh 视角, 按项目 CLAUDE.md 顶部换算表理解
+- [ros2-foxglove-setup.md](ros2-foxglove-setup.md) - AutoDL 服务器 ROS2 + MoveIt + Foxglove 调试环境完整指南
+- [yolo-seg-project.md](yolo-seg-project.md) - YOLO11n-seg box 分割项目状态、最优模型路径与单 box 先验经验
+- [sim-as-validation-platform.md](sim-as-validation-platform.md) - 货架机械臂仿真定位为验证平台（非1:1孪生），余量优先于精度
+- [robot-arm-tailscale-access.md](robot-arm-tailscale-access.md) - 通过 Tailscale 子网路由从 Mac 远程访问机械臂 192.168.0.20:7000 的配置
+- [duco-controller-in-loop-bridge.md](duco-controller-in-loop-bridge.md) - DUCO真机控制器(仿真模式)数据接入AutoDL仿真的桥接架构/脚本/端口
+- [shelf-center-unreachable-zone.md](shelf-center-unreachable-zone.md) - 中柱严格垂直够不到,但允许~15°偏摆即可达(MoveIt IK验证)
+- [shelf-path-debug-workflow.md](shelf-path-debug-workflow.md) - 货架避障路径人机协同调试法(movej种子→测碰撞→人工示教安全点→trackJointMotion连续跑→验证)+踩坑经验
+- [controller-record-not-interpolation.md](controller-record-not-interpolation.md) - 验证路径必须控制器实跑+录制,绝不能用软件插值代替(插值对不上真机)
+- [shelf-path-progress.md](shelf-path-progress.md) - 旧货架路径库10/16(⚠️2026-08已作废:换吸盘+换货架;方法论仍有效)
+- [scene-sim-rebuild.md](scene-sim-rebuild.md) - 参数化场景重建:生成器/碰撞管线/演示套件已交付,待实测数据(2026-08-12)
+- [servers.md](servers.md) - 服务器总览对照表：①中转服务器 relay（199.180.117.149，密钥免密）②AutoDL GPU 服务器，方便区分
+- [motor-adapter-print-part.md](motor-adapter-print-part.md) - 摆臂转接件(3D打印)参数定稿,详见 Obsidian 机器人/打印电机连接件.md
+- [industrialization-roadmap.md](industrialization-roadmap.md) - 工业化部署路线图(机械标准化+wobj相对化+贴码建系)与tool不一致疑点(2026-07-22)
+- [部署等待教训](deploy-wait-lesson.md) — 部署实际生效快于ssh回显,别阻塞长等,交还用户目视验收
+- [moveit-plan-pipeline.md](moveit-plan-pipeline.md) - MoveIt规划→仿真验证→控制器实跑→真机五步流水线(2026-08-13全线打通,含限位/仿真读数坑)
+- [slot-path-production.md](slot-path-production.md) - 18格口路径库生产(6/18)SOP与三大教训(逆序返程作废/文件劫持/并发同名节点)
+- [action-driver-layer-plan.md](action-driver-layer-plan.md) - 动作层轻量版已落地robot_cell/actions(8动作真机全验,2026-09-02); 8月Mock框架封存; 下一步流程层
+- [cable-envelope.md](cable-envelope.md) - 波纹管管线包碰撞包络(事故→建模→试金石→显隐开关全录,2026-08-20)
+- [tcp-handeye-standardization.md](tcp-handeye-standardization.md) - TCP标定标准化闭环+手眼剥离验证SAME+ID0定位,下一步自动巡拍设计(2026-08-20)
+- [read-script-before-advising.md](read-script-before-advising.md) — 真机运动指引先读脚本分支再说;go_home仅仿真模式,真机回位四步链
+- [sim-x-4070s-setup.md](sim-x-4070s-setup.md) — 仿真支线用自有4070S(ssh sim_x)+Isaac Sim 4.5决定+公司/家里网络现状与固化项(2026-08-24)
+- [two-lines-shared-context.md](two-lines-shared-context.md) — 主线/支线同对话并行的边界与语义约定(绿盒=上苗机包络,斜坡是它的一部分)
+- [vision-exam-bank.md](vision-exam-bank.md) - 视觉考题库+侧立盒战役(镜面热斑/斜拍10°防线/最近簇待做)+closeup判卷链
+- [先吸后判策略定案思路](grab-first-scan-decide.md) — 扫码后对规格定去向,H退出去向判断(考题#3引出)
+- [抓取实验计划](grasp-experiment-plan.md) — 吸盘DO7/视觉裁判/安全走廊定案+robot_cell新库迁移(2026-08-28)
+- [格口放置标定](slot-place-calibration.md) — 引导式示教8向法+L6_left账本(转90°工具三常数/140盒容量)
+- [集成衔接教训](integration-seam-analysis.md) — 串链前做衔接状态分析; 运气≠验证; 用户现场直觉优先采信(2026-09-01停滞事故)
+- [仿真是AI沙盘](sim-is-ai-sandbox.md) — 用户只跑真机; AI仿真验证完必须自己切回真实模式
+- [设备接口分层与账本归属](cell-interface-layering.md) — 动作/流程对上位机不可见; 设备只暴露任务/回报/查询; 占位表设备维护以设备为准(2026-09-07)
+- [服务托管定案与ssh托管坑](ssh-controlmaster-hosting-pitfall.md) — 2026-10-29起视觉/工作站/上位机后端=Windows服务(WinSW), 扫码仍计划任务; 看门狗每分钟探活; 装服务需用户自己执行; 扫码钩子根治=切USB-COM
+- [格内高堆阴影规律](slot-reach-shadow-rule.md) — 高堆封住自己列后方全部+前一排, 右列同排+后方全部+前一排, 左列无关(2026-09-10实测); 前挡后→叠层与退苗冲突
+- [立放专用末端设计定案](stand-tool-design.md) — 沿用下盖只重做上盖, 25×25方管+榫头M4, 吸盘轴心, 总长436; 2026-09-17 斜线入位(entry_adv 90, 远列降速, 极限 L7 289.3/R10 240)消掉靠中柱死区; 用户怕信息过载一次一问
+- [盘点定案](stocktake-design.md) — 深度相机一帧数每列盒数; 节距pitch_mm≠卡尺厚(含缝, --learn 学); 盘点独立于账本; 流程A录品种/流程B盘点; 09-17 验收数据
+- [相机断流排查现状](camera-stream-stall.md) — 断流 29 次; 疑似根因=彩色60/深度30帧不一致, 09-23 已改双30帧+帧同步待观察; 识别慢先查 vision_service.log
+- [真机期间不碰控制器](no-controller-while-user-runs.md) — 用户跑真机命令期间 AI 不跑任何切模式的命令(--dry/sim_mode/探测/规划); 2026-09-18 干跑打断真机运动事故
+- [webhook 提议](webhook-proposal.md) — 设备事件推送: 定案推送+轮询兜底、绑定用配置写死; 实现要点(勿在 emit 里同步 POST)与待定白名单
+- [格口货架前缀](multi-shelf-naming.md) — 2026-09-23 已改名 A-L10(老名仍认); 快照对账法验证迁移; 加第二货架的步骤
+- [末端松动](end-effector-loose.md) — 10-23 上架压不紧/放歪/账外物体的根因是末端松; 放置异常先查紧固, 紧固后复核 TCP/手眼/盘点
+- [别让用户信息过载](keep-it-simple.md) — 只讲当前一步; 工具每步一个主按钮不加演示; 细节进文档
+- [部署新设备思路](deploy-new-site-plan.md) — 调试电脑带去现场标定/规划→参数包; 运行电脑装控制台+加载参数包; 参数包分通用/本机标定(未实施)
+- [本机仿真栈(WSL2)](local-sim-wsl.md) — AutoDL 已搬到本机 WSL, sim_stack.sh 管理, Foxglove ws://127.0.0.1:8766, 判卷一致已验证
+- [扫码转面波纹管会蹭小臂](scan-turn-bellows-rub.md) — 扫码 J6 转第2~4面时波纹管真碰 link_3/4 靠摩擦滑过; 判卷报的是真接触
+- [中标后三件事顺序](priorities-after-bid.md) — 11-04: ①盘点做好+长跑验证 ②部署 ③硬件采购/加工
+- [货架B新环境演练](shelf-b-walkthrough.md) — 10-30 起用实物 B 货架走通从零部署; 向导加第8步路径规划(同一个 mid); 入库须真机试飞; 进度与待定(B 何时对上位机开放)
+- [速度调整 11-02](speed-tuning-2026-11.md) — 工具箱速度调整三样旋钮; B-L10 30.1→25.3s; 共用倍率 A 未单独试, 报警先退; 扫码位直飞已暂停
+- [视觉重训 11-02](vision-retrain-2026-11.md) — 现役 best_v4(dataset_v3); 训练 workers=2 防内存吃光; 对比只算桌面, 规则待改; SAM 标注要点完成
+- [盘点基准照](stocktake-baseline-photo.md) — 每列拍照点(错开80mm避热斑), B-L10 11-04 真机全过; 账外物体/拿走最后一盒两问题先记录不处理
+- [新工作台 70×40×56](new-table-560.md) — 11-05 定; 到货后改写死桌面高度 0.064→0.060 三处 + 重标桌子 + 核对出苗口落料带
+- [仿真也会奇异断使能](sim-singular-fault.md) — 仿真里往 >1.15m 远点发 movel 会真报关节误差+断使能, 程序使能不了要人去示教器; 逆解有解≠直线可达
+- [冷库限高 1.9m](site-height-limit.md) — 冷库 2.1m, 路径限 1.9m; 12 条超高(L2~L6/L12), 现场规划先 ceiling.py add 1.9; A-L6/A-L2 已证可压到 1.8 以内, 路程 +40~55%
